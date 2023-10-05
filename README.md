@@ -3,7 +3,7 @@
 [![masterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image1.gif)
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
 <h3 align="center">i am a bca student, currently i am pursuing bca.</h3>
-<img src="right" alt="coding" width="400" src="C:\Users\91600\OneDrive\Documents\code with harry notes\New folder">
+<img src="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
