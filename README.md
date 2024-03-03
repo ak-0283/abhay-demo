@@ -1,5 +1,5 @@
 ![logo](https://github.com/abhaykumar-0285/abhay-demo/blob/main/Abhay%20Kumar_20231017_154726_0000.png)
-<h1 align="center">Hi 👋, I'm Abhay Kumar, Curently i am pursue BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM)</h1>
+<h1 align="center">Hi 👋, I'm Abhay Kumar, i am 🎯curently pursue BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
 
 
 ---
