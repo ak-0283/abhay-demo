@@ -5,6 +5,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abhaykumar-0285&icon=5&color=9)](https://visitcount.itsvg.in)
 
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <h2 align="left">🌐Connect with me:</h2>
@@ -30,5 +31,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Snake animation](https://github.com/{{abhaykumar-0285}}/{{abhaykumar-0285}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
