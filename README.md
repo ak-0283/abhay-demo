@@ -15,6 +15,10 @@
  ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭:- Listen Music, Playing Cricket,..<br>
  🌱 𝐒𝐤𝐢𝐥𝐥𝐬:- typing speed@55wpm, Canva designer, linux os,...
 
+<h2 align="left">⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞:</h2>
+<p align="left">
+<a href="https://monkeytype.com/account" target="blank"><img align="center" src="https://pbs.twimg.com/card_img/1763810361902280704/weCqFLMD?format=jpg&name=900x900" alt="" height="30" width="40" /></a>
+
 
 <h2 align="left">🧑‍💻 𝐂𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞:</h2>
 <p align="left">
