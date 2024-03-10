@@ -1,4 +1,4 @@
-![logo](https://github.com/abhaykumar-0285/abhay-demo/blob/main/Abhay%20Kumar_20231017_154726_0000.png)
+![logo](https://github.com/abhaykumar-0285/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
 <h1 align="center">Hi 👋, I'm Abhay Kumar, 🎯 currently i am pursue BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
 
 
@@ -25,8 +25,7 @@
 <a href="https://www.hackerrank.com/profile/abhaykumar_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhaykumarghy201" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Whitedevil2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="whitedevil2803" height="30" width="40" /></a>
 <a href="https://leetcode.com/white_devil9090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaykumarghy2583" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhaykumabigf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhaykumabigf" height="30" width="40" /></a>
-</p>
+
 
 <h2 align="left">🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞:</h2>
 <p align="left">
