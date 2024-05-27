@@ -17,7 +17,7 @@
 
 <h2 align="left">⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞:</h2>
 <p align="left">
-<a href="https://monkeytype.com/profile/white_devil12718" target="blank"><img align="center" src="https://pbs.twimg.com/card_img/1763810361902280704/weCqFLMD?format=jpg&name=900x900" alt="" height="30" width="40" /></a>
+<a href="https://monkeytype.com/profile/white_devil12718" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_35u88g/styles/communityIcon_jw2wj4yn5vu81.png" alt="" height="30" width="40" /></a>
 
 
 <h2 align="left">🧑‍💻 𝐂𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞:</h2>
@@ -38,15 +38,15 @@
 </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
 # 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
-![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ak-0283&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+###
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-###
