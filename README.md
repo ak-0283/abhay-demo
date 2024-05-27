@@ -12,8 +12,8 @@
 <h2 align="left">🙋‍♂️ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
 <p align="left">
  📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞:- abhay.kr2303@yahoo.com<br>
- ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭:- Listen Music, Playing Cricket,..<br>
- 🌱 𝐒𝐤𝐢𝐥𝐥𝐬:- typing speed@55wpm, Canva designer, linux os,...
+ ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭:- Listen Music<br>
+
 
 <h2 align="left">⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞:</h2>
 <p align="left">
@@ -38,9 +38,8 @@
 </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
 # 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
-![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![ak-0283's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak-0283\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=ff)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ak-0283&limit=5&theme=dark&combine_all_yearly_contributions=true)
