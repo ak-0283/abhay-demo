@@ -2,12 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar, 🎯 currently i am pursue BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=ak-0283&icon=5&color=9)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=ak-0283&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 
 
 <h2 align="left">🙋‍♂️ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
@@ -40,10 +37,16 @@
 
 # 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 ![ak-0283's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak-0283\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=ff)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies)
+![](https://github-profile-trophy.vercel.app/?username=ak-0283&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ak-0283&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 ### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
