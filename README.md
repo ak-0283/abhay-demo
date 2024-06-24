@@ -40,7 +40,7 @@
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies)
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ak-0283&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
